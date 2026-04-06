@@ -5,11 +5,11 @@ This project compares ML and deep learning models for predicting next-day stock 
 
 # Project Proposal
 ## Comparing Traditional Machine Learning Models and Deep Learning Models for Predicting Short-Term Stock Direction
-Adam Fischer, Eric Fode & Adam Booth
-University of Guelph
-CIS*4780 - Computational Intelligence
-Dr. Rozita Dara
-March 1, 2026
+Adam Fischer, Eric Fode & Adam Booth <br>
+University of Guelph <br>
+CIS*4780 - Computational Intelligence <br>
+Dr. Rozita Dara <br>
+March 1, 2026 <br>
 
 ### 1. Short Description
 Our project investigates the effectiveness of traditional machine learning and deep
